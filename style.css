@@ -1,0 +1,131 @@
+
+
+h1 {
+  color: #FC323A;
+  font-family: Montserrat;
+  font-size: 28px;
+  line-height: 2px;
+}
+
+h2 {
+  color:#4E5B62;
+  font-family: Montserrat;
+  font-size: 28px;
+}
+
+h3 {
+  font-style: italic;
+  font-family: Montserrat;
+  text-align: right;
+  padding-right: 6px;
+  font-size: 14px;
+}
+
+p {
+  color:#000000;
+  font-family: Roboto;
+}
+
+thead {
+  vertical-align: top;
+  line-height: 30px;
+  padding-left: 1%;
+}
+
+tbody {
+  vertical-align: top;
+  padding-left: 1%;
+}
+
+td, th {
+   padding: 15px;
+}
+
+
+body {
+  background-color: #FFFCD1;
+  font-family: Roboto;
+  font-size: 16px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+a {
+  color:#4E5B62;
+  font-family: Montserrat;
+  text-decoration: none;
+}
+
+i {
+  color:#4E5B62;
+  font-style: italic;
+}
+
+i:hover {
+  color:#000000;
+  font-style: italic;
+}
+
+a:hover {
+    color: #000000;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.container {
+  width: 50%;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.card {
+  font-style: italic;
+  background-color: FFFFFF;
+  -moz-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -webkit-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -o-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  box-shadow: 1px 1px 1px 1px #c0c0c0;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#c0c0c0, Direction=134, Strength=1);
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+}
+.profil-card {
+  text-align: center;
+  background-color: FFFFFF;
+  -moz-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -webkit-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -o-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  box-shadow: 1px 1px 1px 1px #c0c0c0;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#c0c0c0, Direction=134, Strength=1);
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+}
+
+.footer-card {
+  text-align: right;
+  padding-right: 6px;
+  background-color: FFFFFF;
+  -moz-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -webkit-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  -o-box-shadow: 1px 1px 1px 1px #c0c0c0;
+  box-shadow: 1px 1px 1px 1px #c0c0c0;
+  filter:progid:DXImageTransform.Microsoft.Shadow(color=#c0c0c0, Direction=134, Strength=1);
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+}
+
+.title {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
